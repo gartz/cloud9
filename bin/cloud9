@@ -1,0 +1,6 @@
+#!/bin/sh
+
+CLOUD9="/home/gartz/Projects/cloud9/bin/forevercloud9.sh"
+
+sh "$CLOUD9"
+
