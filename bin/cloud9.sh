@@ -1,6 +1,6 @@
 #!/bin/sh
 
-NODE="node""
+NODE="node"
 CMD="$0"
 CMD_DIR=`dirname "$CMD"`
 cd "$CMD_DIR/.."
