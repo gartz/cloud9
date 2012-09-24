@@ -30,7 +30,8 @@
         "connect-architect": "0.0.6",
 
         "smith": "0.1.9",
-        "smith.io": "0.0.22"
+        "smith.io": "0.0.22",
+        "forever": ""
     },
 
     "devDependencies": {
